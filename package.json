@@ -1,9 +1,9 @@
 {
-  "name": "NodejsStarterApp",
-  "version": "0.0.1",
-  "description": "A sample nodejs app for Bluemix",
+  "name": "zetta-bluemix-sample",
+  "version": "0.1.0",
+  "description": "A sample Node.js app for Bluemix",
   "dependencies": {
-    "zetta": "^0.11.0"
+    "zetta": ">=0.11.0"
   },
   "engines": {
     "node": "0.10.26"
